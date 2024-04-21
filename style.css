@@ -5,9 +5,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background-color: #2b1d0f;
+   /* background-color: #2b1d0f;
+    background-color: #56b47d;*/
+    background: linear-gradient(#6bc28c,#c4b376);
+    background-attachment: fixed;
     color: #fff;
 }
+
 
 header nav{
     background-color: #212121;
