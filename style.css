@@ -13,7 +13,8 @@ body{
 
 
 header nav{
-    
+    background: rgb(244,244,244);
+    background: radial-gradient(circle, rgba(244,244,244,1) 0%, rgba(255,255,255,1) 100%);
     padding: 20px;
     display: flex;
     justify-content: space-between;
