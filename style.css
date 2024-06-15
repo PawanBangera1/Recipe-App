@@ -5,9 +5,8 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-   /* background-color: #2b1d0f;
-    background-color: #56b47d;*/
-    background: linear-gradient(#6bc28c,#c4b376);
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
     background-attachment: fixed;
     color: #fff;
 }
